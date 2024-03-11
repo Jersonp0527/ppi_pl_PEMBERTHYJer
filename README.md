@@ -1,6 +1,6 @@
 # ppi_pl_PEMBERTHYJer
 
-#Plataforma de Análisis de Datos Deportivos
+# Plataforma de Análisis de Datos Deportivos
 Descripción de la idea: Una plataforma que permite a los equipos deportivos, entrenadores y atletas analizar datos relacionados con el rendimiento, tácticas de juego, y condiciones físicas para mejorar su desempeño.
 
 Justificación de la idea: El análisis de datos deportivos se ha vuelto fundamental para el éxito en competiciones de alto nivel. Proporcionar una plataforma accesible y fácil de usar para este propósito puede ser muy valioso para equipos y atletas en diferentes deportes.
@@ -13,11 +13,11 @@ Matplotlib: Para visualizar datos en forma de gráficos, histogramas, y otras re
 Scipy: Para realizar análisis estadísticos avanzados y modelado predictivo para predecir el rendimiento futuro o identificar áreas de mejora.
 Geopandas: Para analizar datos relacionados con la ubicación, como la distribución geográfica de los eventos deportivos o la ubicación de instalaciones de entrenamiento.
 
-##Perfil profesional
+## Perfil profesional
 
 Hola! Soy Jerson Pemberthy, un joven apasionado por la programación. Me destaco por mi capacidad para aprender rápidamente y mi autodidactismo ha sido fundamental en el desarrollo de mis habilidades y conocimientos. Actualmente, estoy cursando Ingeniería de Sistemas e Informática en la Universidad Nacional de Colombia.
 
-##Mis habilidades:
+## Mis habilidades:
 
 Programación multiparadigma en distintos lenguajes: Python, Java, C++, C#, Prolog y Scala.
 Programación con lenguajes orientados al desarrollo web: Habilidades básicas con CSS, HTML y PHP.
@@ -30,7 +30,7 @@ Proactividad y compromiso: Estoy siempre en busca de nuevos desafíos y oportuni
 Comunicación efectiva: Poseo habilidades interpersonales que me permiten interactuar y colaborar de manera eficiente con diferentes equipos y stakeholders.
 Estoy entusiasmado por contribuir con mis habilidades y conocimientos en un entorno dinámico y desafiante. Mi pasión por la programación y mi dedicación para seguir aprendiendo me convierten en un candidato ideal para enfrentar los retos que se presenten en el ámbito de la ingeniería de sistemas e informática.
 
-##¿Quieres saber más sobre mí?
+## ¿Quieres saber más sobre mí?
 
 LinkedIn: https://www.linkedin.com/in/jerson-pemberthy-a191a123b/
 Correo electrónico: jersonp2003@gmail.com
