@@ -24,7 +24,7 @@ Hola! Soy Jerson Pemberthy, un joven apasionado por la programación. Me destaco
 * Conocimiento básico de lenguajes de bases de datos: He estudiado SQL y tengo conocimientos básicos con potencial de mejora.
 * Manejo y administración de sistemas Linux: Sé utilizar y administrar con un alto rango de efectividad múltiples sistemas operativos que usan el kernel de Linux: Ubuntu, Manjaro, Arch, y derivados de estos. Además, poseo conocimientos en el uso de lenguaje de consolas: Bash y ZSH.
 
-# También me caracterizo por:
+## También me caracterizo por:
 * Habilidad para trabajar en equipo: Disfruto del trabajo colaborativo y cuento con conocimientos en gestión de proyectos de ingeniería.
 * Proactividad y compromiso: Estoy siempre en busca de nuevos desafíos y oportunidades para crecer profesionalmente.
 * Comunicación efectiva: Poseo habilidades interpersonales que me permiten interactuar y colaborar de manera eficiente con diferentes equipos y stakeholders.
