@@ -1,5 +1,3 @@
-# ppi_pl_PEMBERTHYJer
-
 # Plataforma de Análisis de Datos Deportivos
 Descripción de la idea: Una plataforma que permite a los equipos deportivos, entrenadores y atletas analizar datos relacionados con el rendimiento, tácticas de juego, y condiciones físicas para mejorar su desempeño.
 
