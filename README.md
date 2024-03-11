@@ -1,4 +1,4 @@
-# Plataforma de Análisis de Datos Deportivos
+# Be a freelance like a PRO
 Descripción de la idea: Una plataforma que permite a los equipos deportivos, entrenadores y atletas analizar datos relacionados con el rendimiento, tácticas de juego, y condiciones físicas para mejorar su desempeño.
 
 Justificación de la idea: El análisis de datos deportivos se ha vuelto fundamental para el éxito en competiciones de alto nivel. Proporcionar una plataforma accesible y fácil de usar para este propósito puede ser muy valioso para equipos y atletas en diferentes deportes.
