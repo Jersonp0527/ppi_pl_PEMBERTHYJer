@@ -33,9 +33,9 @@ Estoy entusiasmado por contribuir con mis habilidades y conocimientos en un ento
 
 ## ¿Quieres saber más sobre mí?
 
-LinkedIn: https://www.linkedin.com/in/jerson-pemberthy-a191a123b/
-Correo electrónico: jersonp2003@gmail.com
-¡No dudes en contactarme si tienes algún proyecto en mente!
+* LinkedIn: https://www.linkedin.com/in/jerson-pemberthy-a191a123b/
+* Correo electrónico: jersonp2003@gmail.com
+**¡No dudes en contactarme si tienes algún proyecto en mente!**
 
 Jerson Pemberthy Castaño
 
