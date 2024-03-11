@@ -1,5 +1,5 @@
 # Be a Freelance like a PRO
-El objetivo de este proyecto es mostrar la ruta de formación ideal para llegar a ser un Freelance completamente capacitados, en la idea es llegar a ser un profecional en manejo de datos, utilizando Python y la basta cantidad de librerias disponibles que esta tecnología nos brinda.
+Este proyecto busca guiar a los aspirantes a través de la ruta de formación ideal para convertirse en freelancers profesionales en manejo de datos con Python. La meta es que los participantes adquieran las habilidades y conocimientos necesarios para dominar el análisis de datos, la visualización y la creación de modelos con esta poderosa tecnología.
 
 ## Uso de las librerías:
 
