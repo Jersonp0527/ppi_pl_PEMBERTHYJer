@@ -32,7 +32,7 @@ Estoy entusiasmado por contribuir con mis habilidades y conocimientos en un ento
 ## ¿Quieres saber más sobre mí?
 
 * Correo electrónico: jersonp2003@gmail.com - jpemberthy@unal.edu.co
-* [LinkedIn](https://www.linkedin.com/in/jerson-pemberthy-a191a123b/)
+* LinkedIn: https://www.linkedin.com/in/jerson-pemberthy-a191a123b/)
   
 **¡No dudes en contactarme si tienes algún proyecto en mente!**
 
